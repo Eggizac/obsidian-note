@@ -39,14 +39,10 @@
             "id": "b75a7e7077bc50c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учеба/История экзамен/1 аттестация/фаывыа.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "фаывыа"
+              "title": "Новая вкладка"
             }
           },
           {
@@ -235,8 +231,9 @@
   },
   "active": "ebb1fb3738b1de67",
   "lastOpenFiles": [
-    "Подготовиться к базам данных.md",
+    "ASDKFJ.md",
     "проверка.md",
+    "Подготовиться к базам данных.md",
     "Словарь Python.md",
     "План тренировок общий.md",
     "Множества set.md",
@@ -280,7 +277,6 @@
     "Учеба/сессия/2 семестр/MathAnaliz/план подготовки/План.md",
     "Учеба/сессия/2 семестр/MathAnaliz/план подготовки/Формулы.md",
     "Заметки/Welcome.md",
-    "Учеба/сессия/2 семестр/MatLogic/question.md",
-    "images/44 вопрос 6.png.md"
+    "Учеба/сессия/2 семестр/MatLogic/question.md"
   ]
 }
