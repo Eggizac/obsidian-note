@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"7d283b78f44b80e4","type":"text","text":"Интернет-магазин","x":-120,"y":-360,"width":250,"height":50},
+		{"id":"d68034d68777de00","x":-218,"y":-211,"width":250,"height":60,"type":"text","text":"shop (товары, категории, продавцы)"},
+		{"id":"6ae14a8d69873489","x":32,"y":-211,"width":250,"height":60,"type":"text","text":"cart (корзина)"},
+		{"id":"4c6ae7ee1d1fbfca","x":282,"y":-211,"width":250,"height":60,"type":"text","text":"chat (пользователи и сообщения)"},
+		{"id":"e9d9e8084d2e3e0b","x":-468,"y":-211,"width":250,"height":60,"type":"text","text":"accounts (пользователи, профили, авторизация)"},
+		{"id":"675f7df49aff3619","x":-680,"y":-580,"width":250,"height":60,"type":"text","text":"#Python #Projects #django_inter_shop "}
+	],
+	"edges":[
+		{"id":"f2b0247f90113e4f","fromNode":"7d283b78f44b80e4","fromSide":"bottom","toNode":"e9d9e8084d2e3e0b","toSide":"top"},
+		{"id":"8c726ce3d300fb10","fromNode":"7d283b78f44b80e4","fromSide":"bottom","toNode":"d68034d68777de00","toSide":"top"},
+		{"id":"5b701c55988e2de1","fromNode":"7d283b78f44b80e4","fromSide":"bottom","toNode":"6ae14a8d69873489","toSide":"top"},
+		{"id":"2101125494d97a2e","fromNode":"7d283b78f44b80e4","fromSide":"bottom","toNode":"4c6ae7ee1d1fbfca","toSide":"top"}
+	]
+}

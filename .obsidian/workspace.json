@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "fa5941cd89b663f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d19b73c9bdfb7226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a63bf3ac4d4b5b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/Программирование/Знания/Go/Основное.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основное"
+            }
+          },
+          {
+            "id": "ebb1fb3738b1de67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Подготовиться к базам данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Подготовиться к базам данных"
+            }
+          },
+          {
+            "id": "b75a7e7077bc50c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/История экзамен/1 аттестация/фаывыа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "фаывыа"
+            }
+          },
+          {
+            "id": "1c6c0256984c1e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/История экзамен/1 аттестация/Все темы 1 аттестации.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Все темы 1 аттестации"
+            }
+          },
+          {
+            "id": "c394fc1a6d32b67e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b64e3b7f39d36199",
+    "type": "split",
+    "children": [
+      {
+        "id": "1175d820c3ae059d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea41bcbe912e3b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a4f552953c27276f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "7ce040c54fbc9359",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "ce31ba7b4ec01f9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a6223e279d66dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e56b8c77d8ca98f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Учеба/История экзамен/2 аттестация/Все темы 2 аттестации.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Все темы 2 аттестации"
+            }
+          },
+          {
+            "id": "59d6e857dfae6f16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Учеба/сессия/2 семестр/MathAnaliz/NewQuetions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из NewQuetions"
+            }
+          },
+          {
+            "id": "1f400940bfbffe1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ac7fae812ad6cb42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Учеба/сессия/2 семестр/MathAnaliz/NewQuetions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура NewQuetions"
+            }
+          },
+          {
+            "id": "7afb081701a01c46",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ebb1fb3738b1de67",
+  "lastOpenFiles": [
+    "Словарь Python.md",
+    "План тренировок общий.md",
+    "Множества set.md",
+    "Подготовиться к базам данных.md",
+    "Учеба/Программирование/Знания/Go/Большие заметки/fmt.md",
+    "Учеба/Программирование/Знания/Go/Основное.md",
+    "Учеба/Программирование/Знания/Go/Большие заметки/Ветвления.md",
+    "Учеба/История экзамен/Вопросы к зачету.md",
+    "Учеба/Программирование/Знания/Go/Большие заметки",
+    "Без названия.canvas",
+    "Учеба/Программирование/Книги/Uolls Spring 2022.pdf",
+    "Учеба/Программирование/Знания/Go",
+    "Учеба/Программирование/Знания",
+    "Заметки/Планчик.md",
+    "Спорт",
+    "ques.md",
+    "Добро пожаловать.md",
+    "Учеба/История экзамен/2 аттестация/Все темы 2 аттестации.md",
+    "Учеба/История экзамен/Учебник_История_России_инженеры.x67800.pdf",
+    "Учеба/История экзамен/1 аттестация/фаывыа.md",
+    "Учеба/История экзамен/1 аттестация/Все темы 1 аттестации.md",
+    "Учеба/История экзамен/2 аттестация/Все билеты.pdf",
+    "Заметки/Темы зачета.md",
+    "Учеба/История экзамен/1 аттестация/Основные принципы устройства государств эпохи древности. Античная цивилизация (Др.Египет, Месопотамия, Др.Греция, Др.Рим).md",
+    "Учеба/История экзамен/1 аттестация/Расселение славян в Европе. Восточнославянские племена в IV-IX веках..md",
+    "Учеба/История экзамен/1 аттестация/История как наука, ее принципы, цели. Проблемы изучения истории России.md",
+    "Учеба/История экзамен/1 аттестация/Исторический процесс и возможность его познания. Место России в мировой системе цивилизаций.md",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewQuetions.md",
+    "Учеба/История экзамен/1 аттестация",
+    "Учеба/мат_анализ.pdf",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewQuetions.pdf",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(5).png",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.41.37.png",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(4).png",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.41.21.png",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(3).png",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.40.57.png",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/questuion 34(2).png",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.40.22.png",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(1).png",
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.40.05.png",
+    "Учеба/сессия/2 семестр/MathAnaliz/план подготовки/План.md",
+    "Учеба/сессия/2 семестр/MathAnaliz/план подготовки/Формулы.md",
+    "Заметки/Welcome.md",
+    "Учеба/сессия/2 семестр/MatLogic/question.md",
+    "images/44 вопрос 6.png.md",
+    "Учеба/История экзамен/3 аттестация/Тесты/Развитие СССР в 60-80е годы/шаблон/вариант 2/вариант.md"
+  ]
+}
