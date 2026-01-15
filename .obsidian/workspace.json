@@ -39,10 +39,14 @@
             "id": "b75a7e7077bc50c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "План на изучения билетов матанализ 3 семестр.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "План на изучения билетов матанализ 3 семестр"
             }
           },
           {
@@ -70,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "ce31ba7b4ec01f9c",
@@ -229,8 +234,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebb1fb3738b1de67",
+  "active": "b75a7e7077bc50c5",
   "lastOpenFiles": [
+    "План на изучения билетов матанализ 3 семестр.md",
     "ASDKFJ.md",
     "проверка.md",
     "Подготовиться к базам данных.md",
@@ -276,7 +282,6 @@
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.40.05.png",
     "Учеба/сессия/2 семестр/MathAnaliz/план подготовки/План.md",
     "Учеба/сессия/2 семестр/MathAnaliz/план подготовки/Формулы.md",
-    "Заметки/Welcome.md",
-    "Учеба/сессия/2 семестр/MatLogic/question.md"
+    "Заметки/Welcome.md"
   ]
 }
