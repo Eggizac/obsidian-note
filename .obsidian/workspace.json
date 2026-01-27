@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "411c47eaff02905c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.5"
+            }
+          },
+          {
             "id": "1c6c0256984c1e6c",
             "type": "leaf",
             "state": {
