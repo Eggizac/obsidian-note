@@ -36,7 +36,35 @@
             }
           },
           {
-            "id": "1c6c0256984c1e6c",
+            "id": "b75a7e7077bc50c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Заметки/1с/1с главная заметка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1с главная заметка"
+            }
+          },
+          {
+            "id": "874938a1d39b22d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "План на изучения билетов матанализ 3 семестр.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "План на изучения билетов матанализ 3 семестр"
+            }
+          },
+          {
+            "id": "b425ef9512625edc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,9 +76,41 @@
               "icon": "lucide-file",
               "title": "ERP «Магазин + CRM"
             }
+          },
+          {
+            "id": "411c47eaff02905c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.5"
+            }
+          },
+          {
+            "id": "1c6c0256984c1e6c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "c394fc1a6d32b67e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,23 +259,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c6c0256984c1e6c",
+  "active": "b425ef9512625edc",
   "lastOpenFiles": [
     "Заметки/1с/1с главная заметка.md",
     "Заметки/1с/Проекты/ERP «Магазин + CRM.md",
-    "conflict-files-obsidian-git.md",
     "Заметки/1с/Проекты",
+    "Заметки/DataSince/Мини план изучения.md",
+    "Заметки/DataSince",
     "План на изучения билетов матанализ 3 семестр.md",
+    "conflict-files-obsidian-git.md",
     "Заметки/1с",
     "ASDKFJ.md",
     "проверка.md",
@@ -246,8 +308,6 @@
     "Учеба/История экзамен/1 аттестация/Расселение славян в Европе. Восточнославянские племена в IV-IX веках..md",
     "Учеба/История экзамен/1 аттестация/История как наука, ее принципы, цели. Проблемы изучения истории России.md",
     "Учеба/История экзамен/1 аттестация/Исторический процесс и возможность его познания. Место России в мировой системе цивилизаций.md",
-    "Учеба/сессия/2 семестр/MathAnaliz/NewQuetions.md",
-    "Учеба/История экзамен/1 аттестация",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(5).png",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.41.37.png",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(4).png",
