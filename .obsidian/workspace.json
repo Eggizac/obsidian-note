@@ -36,35 +36,7 @@
             }
           },
           {
-            "id": "b75a7e7077bc50c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Заметки/1с/1с главная заметка.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1с главная заметка"
-            }
-          },
-          {
-            "id": "874938a1d39b22d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "План на изучения билетов матанализ 3 семестр.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "План на изучения билетов матанализ 3 семестр"
-            }
-          },
-          {
-            "id": "b425ef9512625edc",
+            "id": "1c6c0256984c1e6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,41 +48,9 @@
               "icon": "lucide-file",
               "title": "ERP «Магазин + CRM"
             }
-          },
-          {
-            "id": "411c47eaff02905c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.5"
-            }
-          },
-          {
-            "id": "1c6c0256984c1e6c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "c394fc1a6d32b67e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,30 +199,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b425ef9512625edc",
+  "active": "cea41bcbe912e3b2",
   "lastOpenFiles": [
     "Заметки/1с/Проекты/Что было использовано при разработке.md",
-    "Заметки/1с/Проекты/План разработки.md",
     "Заметки/1с/Проекты/Проблемы при разработке.md",
-    "Заметки/1с/Проекты/ERP «Магазин + CRM.md",
-    "План разработки.md",
+    "Заметки/1с/Проекты/План разработки.md",
     "Заметки/1с/1с главная заметка.md",
-    "conflict-files-obsidian-git.md",
-    "Заметки/1с/Проекты",
+    "Заметки/1с/Проекты/ERP «Магазин + CRM.md",
     "Заметки/DataSince/Мини план изучения.md",
     "Заметки/DataSince",
-    "План на изучения билетов матанализ 3 семестр.md",
+    "План разработки.md",
     "conflict-files-obsidian-git.md",
+    "Заметки/1с/Проекты",
+    "План на изучения билетов матанализ 3 семестр.md",
     "Заметки/1с",
     "ASDKFJ.md",
     "проверка.md",
@@ -309,8 +248,6 @@
     "Учеба/История экзамен/1 аттестация/Все темы 1 аттестации.md",
     "Учеба/История экзамен/2 аттестация/Все билеты.pdf",
     "Заметки/Темы зачета.md",
-    "Учеба/История экзамен/1 аттестация/Основные принципы устройства государств эпохи древности. Античная цивилизация (Др.Египет, Месопотамия, Др.Греция, Др.Рим).md",
-    "Учеба/История экзамен/1 аттестация",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(5).png",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.41.37.png",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(4).png",
