@@ -39,24 +39,32 @@
             "id": "1c6c0256984c1e6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Заметки/1с/1с главная заметка.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "1с главная заметка"
             }
           },
           {
-            "id": "c394fc1a6d32b67e",
+            "id": "6a5d01284274c926",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,9 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7afb081701a01c46",
+  "active": "6a5d01284274c926",
   "lastOpenFiles": [
+    "Заметки/1с/1с главная заметка.md",
+    "conflict-files-obsidian-git.md",
+    "Заметки/1с/Проекты",
     "План на изучения билетов матанализ 3 семестр.md",
+    "Заметки/1с",
     "ASDKFJ.md",
     "проверка.md",
     "Подготовиться к базам данных.md",
@@ -249,8 +261,6 @@
     "Учеба/История экзамен/1 аттестация/Исторический процесс и возможность его познания. Место России в мировой системе цивилизаций.md",
     "Учеба/сессия/2 семестр/MathAnaliz/NewQuetions.md",
     "Учеба/История экзамен/1 аттестация",
-    "Учеба/мат_анализ.pdf",
-    "Учеба/сессия/2 семестр/MathAnaliz/NewQuetions.pdf",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(5).png",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.41.37.png",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(4).png",
@@ -260,9 +270,6 @@
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/questuion 34(2).png",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.40.22.png",
     "Учеба/сессия/2 семестр/MathAnaliz/NewImage/question 34(1).png",
-    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.40.05.png",
-    "Учеба/сессия/2 семестр/MathAnaliz/план подготовки/План.md",
-    "Учеба/сессия/2 семестр/MathAnaliz/план подготовки/Формулы.md",
-    "Заметки/Welcome.md"
+    "Учеба/сессия/2 семестр/MathAnaliz/NewImage/Снимок экрана 2025-07-01 в 23.40.05.png"
   ]
 }
