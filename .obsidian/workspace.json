@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Саморазвитие/Machine Learning/Теория по ML/Линейная регрессия.md",
+                "file": "Саморазвитие/Machine Learning/Математика/Линейное отображение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Линейная регрессия"
+              "title": "Линейное отображение"
+            }
+          },
+          {
+            "id": "48000a69c46540c1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.7"
             }
           },
           {
@@ -41,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "проверка.md",
+                "file": "Саморазвитие/Machine Learning/Теория по ML/Разведочный анализ данных (eda).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "проверка"
+              "title": "Разведочный анализ данных (eda)"
             }
           },
           {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,15 +234,39 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "7afb081701a01c46",
+  "active": "ebb1fb3738b1de67",
   "lastOpenFiles": [
+    "Саморазвитие/Machine Learning/Теория по ML/Machine learning problems overview.md",
+    "Саморазвитие/Machine Learning/Теория по ML/Разведочный анализ данных (eda).md",
+    "Саморазвитие/Machine Learning/Прогрнозирование цен на жилье/Прогнозирование цен на жилье (House price prediction).md",
+    "Университет/Планы по предметам/Питон.md",
+    "Саморазвитие/Machine Learning/Jupiter/kaagle_learn.ipynb",
+    "Университет/Планы по предметам/ЭВМ.md",
+    "Университет/Планы по предметам/Диффуры.md",
+    "Университет/Планы по предметам/Алгосы томографии.md",
+    "Университет/Планы по предметам/4 семестр/Без названия.md",
+    "Университет/Планы по предметам/4 семестр/Без названия 1.md",
+    "Университет/Планы по предметам/4 семестр",
+    "Университет/Планы по предметам",
+    "Университет/Без названия.md",
+    "Саморазвитие/Machine Learning/Jupiter/House_price_prediction.ipynb",
+    "Университет/Алгоритмы томографии/Преобразование Радона и постановка задачи томографии.md",
+    "Excalidraw/Drawing 2026-02-20 20.01.50.excalidraw.md",
+    "Университет/Алгоритмы томографии",
+    "Университет",
+    "Саморазвитие/Machine Learning/Математика/Линейная независимость.md",
+    "Саморазвитие/Machine Learning/Математика/Алгебраические дополнения.md",
+    "Саморазвитие/Machine Learning/Математика/Базис и ранг.md",
+    "Саморазвитие/Machine Learning/Теория по ML/Модели МО.md",
+    "Саморазвитие/Machine Learning/Теория по ML/Pandas.md",
+    "Заметки/_attach/Снимок экрана 2026-02-04 в 19.30.12.png",
+    "Саморазвитие/Machine Learning/Теория по ML/Линейная регрессия.md",
+    "Саморазвитие/Machine Learning/Jupiter/linear_regression.ipynb",
     "Заметки/_attach/Снимок экрана 2026-02-02 в 17.55.46.png",
     "Заметки/_attach/Снимок экрана 2026-02-02 в 17.34.47.png",
     "проверка.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Линейная регрессия.md",
     "Саморазвитие/Machine Learning/Теория по ML/Теория по ML.md",
     "Саморазвитие/Machine Learning/Теория по ML/Loss function.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Machine learning problems overview.md",
     "Саморазвитие/Machine Learning/Математика/Группы.md",
     "Саморазвитие/Machine Learning/ML алгоритмы",
     "Саморазвитие/Machine Learning/Математика/Главная заметка.md",
@@ -239,37 +275,13 @@
     "Саморазвитие/Machine Learning/Математика/Практика линейной алгебры.md",
     "Заметки/_attach/Снимок экрана 2026-01-30 в 13.50.48.png",
     "Заметки/_attach/Снимок экрана 2026-01-30 в 13.42.26.png",
-    "Саморазвитие/Machine Learning/Математика/Линейная независимость.md",
     "Саморазвитие/Machine Learning/Jupiter/result_matrix_linalg.ipynb",
     "Саморазвитие/Machine Learning/Jupiter/Untitled.ipynb",
-    "Саморазвитие/Machine Learning/Untitled.ipynb",
-    "Саморазвитие/Machine Learning/Jupiter",
-    "Саморазвитие/Machine Learning/Untitled Folder",
-    "Программирование/Перунов 17.11.zip",
     "Программирование/krestiki-noliki/src/README.md",
-    "Программирование/krestiki-noliki/src/Player.java",
-    "Программирование/krestiki-noliki/src/Main.java",
-    "Программирование/krestiki-noliki/src/HumanPlayer.java",
-    "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/admin/static/admin/css/vendor/select2/LICENSE-SELECT2.md",
-    "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/admin/static/admin/js/vendor/select2/LICENSE.md",
     "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/admin/static/admin/img/gis/move_vertex_off.svg",
     "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/admin/static/admin/img/gis/move_vertex_on.svg",
     "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/gis/static/gis/img/draw_point_off.svg",
     "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/gis/static/gis/img/draw_polygon_on.svg",
-    "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/gis/static/gis/img/draw_polygon_off.svg",
-    "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/gis/static/gis/img/draw_point_on.svg",
-    "Программирование/Питон/Яндекс практикум/Django/jump_into_project/venv/lib/python3.9/site-packages/django/contrib/admin/static/admin/js/vendor/select2/LICENSE.md",
-    "Программирование/Питон/Яндекс практикум/Django/jump_into_project/venv/lib/python3.9/site-packages/django/contrib/admin/static/admin/css/vendor/select2/LICENSE-SELECT2.md",
-    "Программирование/Питон/Яндекс практикум/Django/jump_into_project/venv/lib/python3.9/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
-    "Программирование/Питон/Яндекс практикум/Django/jump_into_project/venv/lib/python3.9/site-packages/pip/_vendor/idna/LICENSE.md",
-    "Программирование/Питон/Яндекс практикум/the_snake/README.md",
-    "Программирование/Питон/Яндекс практикум/ООП/tic_tac_toe/venv/lib/python3.9/site-packages/pip/_vendor/idna/LICENSE.md",
-    "Программирование/Питон/Яндекс практикум/ООП/tic_tac_toe/venv/lib/python3.9/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
-    "Программирование/Java/spring/demo/HELP.md",
-    "Программирование/Java/BecendRoadmap/Simulator/info.md",
-    "Программирование/Java/Forum/HELP.md",
-    "Саморазвитие/Machine Learning/Математика/Системы линейных уравнений.md",
-    "Саморазвитие/Machine Learning/Математика/Траспонирование.md",
     "Без названия.canvas"
   ]
 }
