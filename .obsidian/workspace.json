@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Саморазвитие/Machine Learning/Математика/Базис и ранг.md",
+                "file": "Саморазвитие/Machine Learning/Математика/Главная заметка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Базис и ранг"
+              "title": "Главная заметка"
             }
           },
           {
@@ -79,16 +79,18 @@
             "id": "1c6c0256984c1e6c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Саморазвитие/Machine Learning/Математика/Практика линейной алгебры.md"
+                "file": "Саморазвитие/Machine Learning/Теория по ML/Разведочный анализ данных (eda).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Практика линейной алгебры"
+              "icon": "lucide-file",
+              "title": "Разведочный анализ данных (eda)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 251.5
   },
   "right": {
     "id": "ce31ba7b4ec01f9c",
@@ -248,14 +250,17 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "ebb1fb3738b1de67",
+  "active": "953672d24842c03a",
   "lastOpenFiles": [
-    "Саморазвитие/Machine Learning/Математика/Главная заметка.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Линейная регрессия.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Модели МО.md",
+    "Саморазвитие/Machine Learning/Теория по ML/Теория по ML.md",
+    "Саморазвитие/Machine Learning/Теория по ML/Разведочный анализ титаника.md",
     "Саморазвитие/Machine Learning/Теория по ML/Разведочный анализ данных (eda).md",
     "Саморазвитие/Machine Learning/Математика/Практика линейной алгебры.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Разведочный анализ титаника.md",
+    "Саморазвитие/Machine Learning/Математика/Линейное отображение.md",
+    "Саморазвитие/Machine Learning/Математика/Главная заметка.md",
+    "Саморазвитие/Machine Learning/Математика/Базис и ранг.md",
+    "Саморазвитие/Machine Learning/Теория по ML/Линейная регрессия.md",
+    "Саморазвитие/Machine Learning/Теория по ML/Модели МО.md",
     "Саморазвитие/Machine Learning/Jupiter/titanic_categorial_featutres.ipynb",
     "Саморазвитие/Machine Learning/Теория по ML/Machine learning problems overview.md",
     "Саморазвитие/Machine Learning/Прогрнозирование цен на жилье/Прогнозирование цен на жилье (House price prediction).md",
@@ -276,18 +281,15 @@
     "Университет",
     "Саморазвитие/Machine Learning/Математика/Линейная независимость.md",
     "Саморазвитие/Machine Learning/Математика/Алгебраические дополнения.md",
-    "Саморазвитие/Machine Learning/Математика/Базис и ранг.md",
     "Саморазвитие/Machine Learning/Теория по ML/Pandas.md",
     "Заметки/_attach/Снимок экрана 2026-02-04 в 19.30.12.png",
     "Саморазвитие/Machine Learning/Jupiter/linear_regression.ipynb",
     "Заметки/_attach/Снимок экрана 2026-02-02 в 17.55.46.png",
     "Заметки/_attach/Снимок экрана 2026-02-02 в 17.34.47.png",
     "проверка.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Теория по ML.md",
     "Саморазвитие/Machine Learning/Теория по ML/Loss function.md",
     "Саморазвитие/Machine Learning/Математика/Группы.md",
     "Саморазвитие/Machine Learning/ML алгоритмы",
-    "Саморазвитие/Machine Learning/Математика/Матрицы.md",
     "Заметки/_attach/Снимок экрана 2026-01-30 в 14.06.27.png",
     "Заметки/_attach/Снимок экрана 2026-01-30 в 13.50.48.png",
     "Заметки/_attach/Снимок экрана 2026-01-30 в 13.42.26.png",
