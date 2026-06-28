@@ -27,12 +27,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Саморазвитие/Machine Learning/Математика/Линейное отображение.md",
+                "file": "Саморазвитие/Английский/Лексика/Словарь.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Линейное отображение"
+              "title": "Словарь"
+            }
+          },
+          {
+            "id": "6ac0caf960125be5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.12.4"
+            }
+          },
+          {
+            "id": "71f0bcff062f643a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лабораторная работа по алгоритмам томографии №1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лабораторная работа по алгоритмам томографии №1"
+            }
+          },
+          {
+            "id": "1c71b5445ec29726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Саморазвитие/Английский/Грамматика/Правила/Времена/Past simple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Past simple"
+            }
+          },
+          {
+            "id": "a4d25e240e6992bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Саморазвитие/Английский/Грамматика/Правила/Времена/Present continues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Present continues"
             }
           },
           {
@@ -88,9 +142,163 @@
               "icon": "lucide-file",
               "title": "Разведочный анализ данных (eda)"
             }
+          },
+          {
+            "id": "1b8d7ae0dafa8d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Саморазвитие/Английский/Mistake logs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mistake logs"
+            }
+          },
+          {
+            "id": "64fbe5a797442750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Саморазвитие/Английский/Mistake logs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mistake logs"
+            }
+          },
+          {
+            "id": "b46f1a423bbc58f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Саморазвитие/Английский/Лексика/Тексты/Имиграция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Имиграция"
+            }
+          },
+          {
+            "id": "20840c8cea6b785a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Саморазвитие/Английский/Лексика/Тексты/Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "71348004b02979b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Саморазвитие/Английский/Лексика/Тексты/jupiter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jupiter"
+            }
+          },
+          {
+            "id": "69a4b30ddff40f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Саморазвитие/Английский/Лексика/Разборы подкастов/Immigration A1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Immigration A1"
+            }
+          },
+          {
+            "id": "cad38be174d707ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Саморазвитие/Английский/Грамматика/Правила/Предложения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Предложения"
+            }
+          },
+          {
+            "id": "9071d6e77e591a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 3"
+            }
+          },
+          {
+            "id": "307f983c42e688d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Университет/4 семестр/Лабораторная работа по алгоритмам томографии №5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лабораторная работа по алгоритмам томографии №5"
+            }
+          },
+          {
+            "id": "d834a9561df8be30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лабораторная работа №3 по алгоритмам томографии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лабораторная работа №3 по алгоритмам томографии"
+            }
+          },
+          {
+            "id": "042fc1582a7a0c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лабораторная работа №4 по алгоритмам томографии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лабораторная работа №4 по алгоритмам томографии"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -147,7 +355,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 200
   },
   "right": {
     "id": "ce31ba7b4ec01f9c",
@@ -211,17 +419,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Учеба/сессия/2 семестр/MathAnaliz/NewQuetions.md",
+                "file": "Саморазвитие/Английский/Грамматика/Правила/Времена/eqw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура NewQuetions"
+              "title": "Структура eqw"
             }
           },
           {
-            "id": "7afb081701a01c46",
+            "id": "8f5050712d667206",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "e2bf1be5ff3e8a24",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -231,11 +449,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,58 +464,59 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "953672d24842c03a",
+  "active": "20840c8cea6b785a",
   "lastOpenFiles": [
-    "Саморазвитие/Machine Learning/Теория по ML/Теория по ML.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Разведочный анализ титаника.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Разведочный анализ данных (eda).md",
-    "Саморазвитие/Machine Learning/Математика/Практика линейной алгебры.md",
-    "Саморазвитие/Machine Learning/Математика/Линейное отображение.md",
-    "Саморазвитие/Machine Learning/Математика/Главная заметка.md",
-    "Саморазвитие/Machine Learning/Математика/Базис и ранг.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Линейная регрессия.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Модели МО.md",
-    "Саморазвитие/Machine Learning/Jupiter/titanic_categorial_featutres.ipynb",
-    "Саморазвитие/Machine Learning/Теория по ML/Machine learning problems overview.md",
-    "Саморазвитие/Machine Learning/Прогрнозирование цен на жилье/Прогнозирование цен на жилье (House price prediction).md",
-    "Университет/Планы по предметам/Питон.md",
-    "Саморазвитие/Machine Learning/Jupiter/kaagle_learn.ipynb",
-    "Университет/Планы по предметам/ЭВМ.md",
+    "Саморазвитие/Английский/Лексика/Тексты/Имиграция.md",
+    "Саморазвитие/Английский/Лексика/Тексты/Без названия.md",
+    "Саморазвитие/Английский/Mistake logs.md",
+    "Саморазвитие/Английский/Лексика/Разборы подкастов/Immigration A1.md",
+    "Саморазвитие/Английский/Грамматика/Правила/Предложения.md",
+    "Без названия 3.md",
+    "Университет/4 семестр/Лабораторная работа по алгоритмам томографии №5.md",
+    "Заметки/_attach/Figure_1.png",
+    "Университет/4 семестр/Кванты.md",
+    "Университет/4 семестр/Дифуры билеты.md",
     "Университет/Планы по предметам/Диффуры.md",
-    "Университет/Планы по предметам/Алгосы томографии.md",
-    "Университет/Планы по предметам/4 семестр/Без названия.md",
-    "Университет/Планы по предметам/4 семестр/Без названия 1.md",
+    "Университет/4 семестр",
+    "Пароль финский сервер.md",
+    "Лабораторная работа №3 по алгоритмам томографии.md",
+    "Лабораторная работа №4 по алгоритмам томографии.md",
+    "Заметки/_attach/Pasted image 20260428180002.png",
+    "Заметки/_attach/Снимок экрана 2026-04-28 в 17.37.50.png",
+    "Заметки/_attach/Снимок экрана 2026-04-28 в 17.37.31.png",
+    "Заметки/_attach/Снимок экрана 2026-04-28 в 17.37.21.png",
+    "start_span.md",
+    "Саморазвитие/Английский/Лексика/Тексты/jupiter.md",
+    "Саморазвитие/Английский/Лексика/Тексты/Healthy eating.md",
+    "Саморазвитие/Английский/Лексика/Тексты/Тренировка.md",
+    "Саморазвитие/Английский/Лексика/Тексты/Тексты.md",
+    "Саморазвитие/Английский/Лексика/Эссе/Healthy eating for low or grow weight.md",
+    "Саморазвитие/Английский/Лексика/Эссе/Эссе.md",
+    "Саморазвитие/Английский/Грамматика/Правила/Правило поставновки \"s\" в конце глагола.md",
+    "Саморазвитие/Machine Learning/Теория по ML/Разведочный анализ данных (eda).md",
+    "Саморазвитие/Английский/Грамматика/Правила/Времена/Без названия.md",
+    "Саморазвитие/Английский/Грамматика/Правила/Времена/eqw.md",
+    "Заметки/Список контента.md",
+    "Заметки/Фильмы.md",
+    "Заметки/_attach/Pasted image 20260403151620.png",
+    "Саморазвитие/Machine Learning/Jupiter/sinogram.mat",
+    "Саморазвитие/Machine Learning/Jupiter/laba_2.ipynb",
+    "Саморазвитие/Английский/Лексика/Разборы подкастов",
+    "Заметки/_attach/Pasted image 20260319193509.png",
+    "Заметки/_attach/Pasted image 20260319193501.png",
+    "Заметки/_attach/Pasted image 20260319193455.png",
+    "Заметки/_attach/Pasted image 20260319193451.png",
+    "Саморазвитие/Machine Learning/Jupiter/titanic_categorial_featutres.ipynb",
+    "Саморазвитие/Machine Learning/Jupiter/kaagle_learn.ipynb",
     "Университет/Планы по предметам/4 семестр",
     "Университет/Планы по предметам",
-    "Университет/Без названия.md",
     "Саморазвитие/Machine Learning/Jupiter/House_price_prediction.ipynb",
-    "Университет/Алгоритмы томографии/Преобразование Радона и постановка задачи томографии.md",
-    "Excalidraw/Drawing 2026-02-20 20.01.50.excalidraw.md",
     "Университет/Алгоритмы томографии",
-    "Университет",
-    "Саморазвитие/Machine Learning/Математика/Линейная независимость.md",
-    "Саморазвитие/Machine Learning/Математика/Алгебраические дополнения.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Pandas.md",
-    "Заметки/_attach/Снимок экрана 2026-02-04 в 19.30.12.png",
-    "Саморазвитие/Machine Learning/Jupiter/linear_regression.ipynb",
-    "Заметки/_attach/Снимок экрана 2026-02-02 в 17.55.46.png",
-    "Заметки/_attach/Снимок экрана 2026-02-02 в 17.34.47.png",
-    "проверка.md",
-    "Саморазвитие/Machine Learning/Теория по ML/Loss function.md",
-    "Саморазвитие/Machine Learning/Математика/Группы.md",
-    "Саморазвитие/Machine Learning/ML алгоритмы",
-    "Заметки/_attach/Снимок экрана 2026-01-30 в 14.06.27.png",
-    "Заметки/_attach/Снимок экрана 2026-01-30 в 13.50.48.png",
-    "Заметки/_attach/Снимок экрана 2026-01-30 в 13.42.26.png",
-    "Саморазвитие/Machine Learning/Jupiter/result_matrix_linalg.ipynb",
-    "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/admin/static/admin/img/gis/move_vertex_off.svg",
-    "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/admin/static/admin/img/gis/move_vertex_on.svg",
-    "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/gis/static/gis/img/draw_point_off.svg",
-    "Программирование/Питон/Django/Learn/my-first-env/lib/python3.9/site-packages/django/contrib/gis/static/gis/img/draw_polygon_on.svg",
     "Без названия.canvas"
   ]
 }
